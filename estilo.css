@@ -1,0 +1,11 @@
+body{background-image: url(https://static.vecteezy.com/system/resources/previews/001/963/633/non_2x/perforated-black-metallic-background-abstract-stainless-steel-background-illustration-vector.jpg); background-size: cover;
+}
+li{margin:30px;}
+h1{text-align: center; color: white; font-family:Georgia, 'Times New Roman', Times, serif; font-size: 50px; 
+text-decoration: underline;
+text-shadow: 5px 5px 10px lightskyblue}
+ul{text-align: center;}
+a{color: white; font-family: Macondo,cursive, Helvetica, sans-serif; font-size: 50px; text-decoration: none;}
+a:hover{color: goldenrod}
+a:active{color: lightsalmon; text-shadow: 3px 3px 10px red;}
+a:visited{color: lightgray;}
